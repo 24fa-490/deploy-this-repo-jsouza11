@@ -26,4 +26,4 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-jsouza11-fq23-23xs3x1kx-jsouza11s-projects.vercel.app/
+deploy-this-repo-jsouza11-fq23.vercel.app
