@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+https://deploy-this-repo-jsouza11-fq23.vercel.app/
